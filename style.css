@@ -1,0 +1,31 @@
+.row{   
+
+    background-color:#6a4acd;
+    color:black;
+    font-size:25px;
+    display: flex;
+    width:100%;
+}
+.headshot{
+    width:15%;
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    justify-content:space-around;
+    
+}
+
+.contact{
+    justify-content:space-around;
+}
+.aboutme{
+    border:5px solid black;   
+}
+.footer{justify-content:space-around;}
+img{width: 4900px;}
+body{font-family: 'Walter Turncoat', cursive;}
